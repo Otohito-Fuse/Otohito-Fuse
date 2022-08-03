@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Otohito-Fuse
 - 👀 I’m interested in math, music and competitive programming.
-- 🌱 I’m currently learning C++, Java and Rust.
+- 🌱 I’m currently learning Typescript, Java and Rust.
 - ☀️ I'm living in Tokyo, Japan.
 - ✏️ My AtCoder ID is @OtoFuse
 <!---
